@@ -8,7 +8,7 @@ Helping businesses track, analyze, and optimize revenue and profit performance w
 ---
 
 ## Overview
-This Power BI dashboard provides a comprehensive view of a company's sales performance, revenue growth, and profit margins. By analyzing year-to-date (TYD) sales against previous year (PY) data, businesses can make informed strategic decisions.
+> This Power BI dashboard provides a comprehensive view of a company's sales performance, revenue growth, and profit margins. By analyzing year-to-date (TYD) sales against previous year (PY) data, businesses can make informed strategic decisions.
 
 ---
 
@@ -36,8 +36,6 @@ Revenue Growth = ([Sales TYD] - [Sales PY]) / [Total Sales]
 
 ### Profit Margin
 Profit Margin = DIVIDE([Total Profit], [Total Sales], 0) 
-
-> Note: In this dataset, revenue and profit growth percentages appear the same due to proportionality in data.
 
 ---
 
