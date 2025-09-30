@@ -1,0 +1,7 @@
+PaymentID,PaymentMethod
+PM-1122,Credit Card
+PM-1123,Mobile Money
+PM-1124,Bank Transfer
+PM-1125,Cheque
+PM-1126,Paypal
+PM-1127,Cash

@@ -1,0 +1,200 @@
+CustomerID,CustomerName,Country,City
+C27111,Ravi Ade,Brazil,Rio de Janeiro
+C22929,Ravi Martins,United States,Los Angeles
+C25323,Olivia Singh,Germany,Hamburg
+C20235,Hannah Brown,United States,New York
+C26058,Fatima Brown,Germany,Berlin
+C29368,Hannah Martins,South Africa,Cape Town
+C27018,Emma Martins,Kenya,Kisumu
+C23046,Noah Garcia,Germany,Munich
+C25769,Ravi Okoye,India,Mumbai
+C22805,Chike Müller,Germany,Munich
+C22338,Lucas Brown,France,Lyon
+C22802,Ife Johnson,Nigeria,Port Harcourt
+C23066,Grace Smith,United States,Los Angeles
+C24252,Jacob Khan,France,Lyon
+C28825,Fatima Müller,India,Mumbai
+C20173,Noah Singh,Brazil,Rio de Janeiro
+C26647,Michael Singh,India,Delhi
+C22369,Amaka Johnson,Nigeria,Port Harcourt
+C25366,Jacob Müller,United Kingdom,Bristol
+C20716,Emma Müller,South Africa,Cape Town
+C26120,Michael Johnson,Brazil,Brasilia
+C21797,Carlos Singh,United Kingdom,London
+C29628,Ravi Singh,Brazil,Sao Paulo
+C28230,Liam Johnson,United States,Chicago
+C25426,Liam Okoye,Canada,Toronto
+C28755,Ngozi Singh,United States,Los Angeles
+C25337,Jacob Ade,France,Marseille
+C24753,Grace Singh,Canada,Vancouver
+C21100,Ravi Garcia,France,Marseille
+C20369,Lucas Khan,United States,Los Angeles
+C24766,Sophia Müller,Brazil,Brasilia
+C24281,Liam Müller,South Africa,Cape Town
+C23748,Ada Khan,Germany,Munich
+C24441,Ravi Brown,Nigeria,Abuja
+C28138,Olivia Brown,France,Paris
+C25582,Ravi Müller,Brazil,Rio de Janeiro
+C25805,Ife Garcia,South Africa,Johannesburg
+C24320,Hannah Ade,Germany,Hamburg
+C25681,Akin Singh,Canada,Toronto
+C22241,Chike Okoye,France,Lyon
+C22182,Ngozi Garcia,India,Mumbai
+C20036,Emma Ade,United Kingdom,Manchester
+C24831,Hannah Müller,Brazil,Brasilia
+C23614,Ada Johnson,Germany,Munich
+C25723,Hannah Khan,Brazil,Brasilia
+C29894,Ada Okoye,Canada,Montreal
+C21524,Jacob Martins,India,Mumbai
+C21478,Amaka Ade,Brazil,Sao Paulo
+C27606,Noah Okoye,Brazil,Sao Paulo
+C27713,Fatima Johnson,Nigeria,Abuja
+C28602,Akin Müller,Kenya,Kisumu
+C24726,Carlos Smith,South Africa,Durban
+C23799,Akin Smith,France,Paris
+C25544,Ife Ade,Nigeria,Lagos
+C21040,Samuel Okoye,India,Mumbai
+C27167,Chike Johnson,United Kingdom,London
+C29949,Akin Okoye,Canada,Montreal
+C26243,Ife Müller,Canada,Toronto
+C26380,Michael Smith,South Africa,Durban
+C28722,Jacob Garcia,India,Mumbai
+C22895,Olivia Ade,United Kingdom,Bristol
+C20458,Emma Singh,Canada,Toronto
+C28082,Michael Khan,Kenya,Kisumu
+C23298,Emma Khan,South Africa,Cape Town
+C22654,Samuel Garcia,Kenya,Nairobi
+C22333,Noah Brown,Canada,Toronto
+C26191,Grace Khan,Nigeria,Abuja
+C27222,Ngozi Martins,India,Bangalore
+C24669,Michael Ade,United States,New York
+C25286,Lucas Martins,Kenya,Mombasa
+C26342,Lucas Okoye,United Kingdom,Manchester
+C28870,Ife Smith,Kenya,Mombasa
+C25026,Emma Garcia,South Africa,Cape Town
+C29913,Michael Brown,United Kingdom,Bristol
+C26773,Chike Ade,United Kingdom,Manchester
+C23205,Olivia Okoye,India,Mumbai
+C26822,Olivia Garcia,United Kingdom,Bristol
+C25828,Ngozi Brown,United States,Los Angeles
+C21250,Emma Johnson,Brazil,Brasilia
+C25473,Ife Khan,Brazil,Sao Paulo
+C29065,Jacob Okoye,India,Mumbai
+C29529,Chike Singh,India,Mumbai
+C22069,Ife Singh,India,Bangalore
+C20479,Noah Martins,South Africa,Durban
+C29342,Emma Brown,India,Delhi
+C24739,Lucas Johnson,Canada,Toronto
+C25231,Chike Khan,India,Delhi
+C21205,Carlos Khan,Brazil,Brasilia
+C23600,Amaka Martins,Kenya,Mombasa
+C26159,Grace Brown,United States,New York
+C27062,Ngozi Ade,Canada,Toronto
+C25146,Jacob Singh,India,Bangalore
+C29424,Ada Martins,Germany,Munich
+C25142,Samuel Ade,Kenya,Mombasa
+C22332,Carlos Garcia,Nigeria,Abuja
+C21194,Fatima Khan,Kenya,Kisumu
+C28609,Akin Johnson,Kenya,Mombasa
+C28416,Grace Okoye,Nigeria,Lagos
+C29720,Samuel Khan,Germany,Hamburg
+C25863,Olivia Müller,France,Lyon
+C22985,Noah Khan,Germany,Munich
+C27773,Sophia Singh,Kenya,Kisumu
+C29562,Ada Smith,Canada,Toronto
+C22735,Ravi Johnson,Nigeria,Port Harcourt
+C27679,Hannah Garcia,France,Paris
+C26673,Samuel Brown,Brazil,Rio de Janeiro
+C27244,Michael Okoye,Brazil,Sao Paulo
+C22672,Hannah Smith,South Africa,Johannesburg
+C26271,Michael Garcia,Kenya,Mombasa
+C28234,Jacob Smith,India,Bangalore
+C23541,Ife Okoye,United Kingdom,Bristol
+C23526,Grace Garcia,Brazil,Rio de Janeiro
+C26479,Akin Khan,United Kingdom,Manchester
+C20420,Ngozi Khan,Germany,Hamburg
+C27082,Grace Ade,India,Delhi
+C22334,Chike Martins,South Africa,Durban
+C26039,Grace Martins,India,Bangalore
+C21225,Ravi Khan,United Kingdom,Manchester
+C29961,Samuel Smith,United Kingdom,Manchester
+C29709,Liam Brown,United States,Los Angeles
+C24476,Lucas Garcia,Germany,Munich
+C27462,Amaka Garcia,Canada,Montreal
+C28379,Ife Brown,Nigeria,Lagos
+C28782,Ada Singh,United Kingdom,Bristol
+C20797,Liam Khan,United Kingdom,Manchester
+C20215,Carlos Ade,United Kingdom,London
+C29994,Noah Johnson,France,Lyon
+C29637,Olivia Johnson,United Kingdom,London
+C20870,Ada Ade,France,Marseille
+C24971,Grace Müller,Kenya,Mombasa
+C21106,Noah Ade,Nigeria,Lagos
+C22795,Akin Martins,Canada,Toronto
+C27415,Fatima Singh,Brazil,Brasilia
+C24426,Liam Ade,United Kingdom,London
+C22427,Lucas Ade,Kenya,Kisumu
+C24253,Sophia Johnson,Brazil,Sao Paulo
+C21684,Olivia Smith,Germany,Hamburg
+C26358,Akin Garcia,Germany,Hamburg
+C25468,Hannah Singh,Canada,Toronto
+C22248,Ada Garcia,United States,Chicago
+C28222,Hannah Johnson,United States,Los Angeles
+C28807,Carlos Brown,South Africa,Durban
+C22894,Lucas Smith,South Africa,Durban
+C29800,Samuel Johnson,United States,Chicago
+C21785,Hannah Okoye,Kenya,Nairobi
+C22968,Amaka Smith,United States,Los Angeles
+C20787,Amaka Singh,Brazil,Rio de Janeiro
+C20377,Sophia Okoye,South Africa,Durban
+C27173,Sophia Martins,India,Delhi
+C25771,Carlos Okoye,United States,Los Angeles
+C29804,Fatima Smith,South Africa,Durban
+C27055,Sophia Ade,Germany,Hamburg
+C24940,Amaka Brown,Kenya,Kisumu
+C25496,Olivia Martins,Kenya,Kisumu
+C23451,Ngozi Johnson,United States,Chicago
+C24717,Ravi Smith,Brazil,Rio de Janeiro
+C26486,Sophia Garcia,India,Delhi
+C25385,Samuel Martins,India,Mumbai
+C21463,Samuel Müller,United Kingdom,London
+C21070,Ada Brown,Kenya,Kisumu
+C23717,Emma Smith,Nigeria,Port Harcourt
+C28520,Jacob Johnson,United Kingdom,Bristol
+C29647,Sophia Khan,Germany,Hamburg
+C29326,Chike Brown,South Africa,Durban
+C21728,Michael Müller,France,Marseille
+C25134,Liam Smith,South Africa,Johannesburg
+C27003,Ngozi Okoye,France,Paris
+C25108,Sophia Smith,France,Lyon
+C23858,Liam Garcia,Nigeria,Abuja
+C21167,Carlos Johnson,Nigeria,Port Harcourt
+C22105,Noah Smith,United Kingdom,Manchester
+C29374,Emma Okoye,India,Mumbai
+C26051,Ngozi Müller,United States,New York
+C21807,Amaka Müller,France,Paris
+C22988,Jacob Brown,Brazil,Sao Paulo
+C23365,Carlos Martins,France,Paris
+C24742,Grace Johnson,Nigeria,Port Harcourt
+C28349,Noah Müller,Kenya,Kisumu
+C20468,Michael Martins,United States,Los Angeles
+C26258,Fatima Garcia,Brazil,Sao Paulo
+C24637,Fatima Ade,United Kingdom,London
+C28408,Fatima Martins,Nigeria,Port Harcourt
+C27759,Ife Martins,Germany,Munich
+C25499,Samuel Singh,South Africa,Durban
+C27580,Amaka Okoye,India,Mumbai
+C22460,Amaka Khan,South Africa,Durban
+C28516,Lucas Müller,South Africa,Durban
+C26290,Liam Martins,Brazil,Brasilia
+C26303,Sophia Brown,Canada,Toronto
+C29939,Lucas Singh,Canada,Toronto
+C27548,Akin Ade,Brazil,Brasilia
+C21731,Ada Müller,Canada,Vancouver
+C22955,Olivia Khan,United States,Los Angeles
+C27501,Liam Singh,Kenya,Mombasa
+C20886,Chike Smith,Canada,Montreal
+C24264,Akin Brown,United States,New York
+C22004,Ngozi Smith,Kenya,Nairobi
+C26867,Chike Garcia,Germany,Berlin
+C25707,Fatima Okoye,India,Bangalore

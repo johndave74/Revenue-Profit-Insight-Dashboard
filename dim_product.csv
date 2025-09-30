@@ -1,0 +1,25 @@
+ProductID,ProductCategory,ProductName,UnitPrice,UnitCost
+P1566,Consulting,Strategy Session,1345.73,807.438
+P3193,Training,Onsite Workshop,461.28,276.768
+P9484,Hardware,Workstation Z,702.65,421.59
+P2653,Training,Certification Prep,543.36,326.016
+P0126,Training,Online Course,439.6,263.76
+P6794,Support,Bronze Support,319.56,191.736
+P5552,Accessories,Power Cable,53.45,32.07
+P7834,Software,Enterprise Suite,1471.81,883.086
+P1628,Support,Gold Support,299.95,179.97
+P5107,Support,Silver Support,276.26,165.756
+P0481,Hardware,Server Rack S3,883.48,530.088
+P1840,Training,Starter Plan,531.06,318.636
+P6454,Subscription,Implementation Pack,172.31,103.386
+P4101,Consulting,Router X200,1051.54,630.924
+P2359,Consulting,Compute Hours,1253.78,752.268
+P7251,Hardware,Payroll Plus,534.95,320.97
+P4495,Consulting,Annual Business,1192.88,715.728
+P0225,Accessories,USB Adapter,41.05,24.63
+P1894,Subscription,Monthly Pro,261.9,157.14
+P4355,Consulting,DBaaS,980.35,588.21
+P4309,Cloud Services,Storage Pack,108.72,65.232
+P2707,Software,Audit Service,1765.21,1059.126
+P7603,Subscription,Rack Mount Kit,191.42,114.852
+P8444,Support,Analytics Pro,355.67,213.402
